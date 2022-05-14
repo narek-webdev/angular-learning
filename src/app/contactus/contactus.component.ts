@@ -10,6 +10,7 @@ import { FormControl } from '@angular/forms';
 export class ContactusComponent implements OnInit {
   name = new FormControl('');
 
+  
   constructor() { 
   }
 
